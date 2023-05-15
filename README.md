@@ -1,2 +1,2 @@
-# Test-Page
-This is a test page for front-end development
+I am very grateful to have taken part and gotten the opportunity to participate in your front-end developer test. I didn't expect to get a chance to show my knowledge so soon, I just started studying seven days ago and I've already learned a lot from this test. I don't think all the requirements are fulfilled, I did my best and used my previous knowledge as much as I could. I looked in the XD file that I got and decided to go from the top side of the page to the bottom . The hardest thing for me was to assemble some sections in css, and I still haven't found out why my footer went to the right but I think that with more experience I will learn to work better and faster compared to this site . With the knowledge I have attained on this test im able to finish this site in 5-7 days.
+But later on as i hone my craft the estimated time to finish this site will be halfed.
